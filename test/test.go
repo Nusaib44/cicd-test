@@ -1,5 +1,7 @@
 package test
 
-func main() {
-	hai
+import "fmt"
+
+func Hai() {
+	fmt.Println("hai")
 }
