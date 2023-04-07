@@ -1,5 +1,5 @@
 package test
 
 func main() {
-	hjdhjdfdkjklkjsdksjb
+	hjdhjdfdkjklkjsdks=bxjchbzvgdkx n
 }
